@@ -32,7 +32,7 @@ HTML Document 에는 자바스크립트 코드를 어디에든 넣을 수 있습
 위 코드의 실행 결과는 [실행예제 링크](https://www.tutorialspoint.com/online_javascript_editor.php)에서 직접 확인해볼 수 있습니다.
 
 ## JavaScript in <body>...</body> section
-페이지가 로드되었을 때 실행할 스크립트가 필요하여 페이지의 내용을 스크립트가 생성해야하는 경, 스크립트는 <body> 부분에 들어갑니다. 이 경우에는 자바스크립트로 함수를 만들지 않아도 됩니다. 아래 코드를 보겠습니다.
+페이지가 로드되었을 때 실행할 스크립트가 필요하여 페이지의 내용을 스크립트가 생성해야하는 경우, 스크립트는 <body> 부분에 들어갑니다. 이 경우에는 자바스크립트로 함수를 만들지 않아도 됩니다. 아래 코드를 보겠습니다.
 
 ```html
 <html>
@@ -59,8 +59,8 @@ This is web page body
 
 [실행예제 링크](https://www.tutorialspoint.com/online_javascript_editor.php)에서 직접 확인해볼 수 있습니다.
 
-## JavaScript in <body> and <head> Sections
-다음과 같이 자바스크립트 코드를 <body> 와 <head> 부분에 각각 놓을 수도 있습니다.
+## JavaScript in \<body> and \<head> Sections
+다음과 같이 자바스크립트 코드를 \<body> 와 \<head> 부분에 각각 놓을 수도 있습니다.
 
 ```html
 <html>
