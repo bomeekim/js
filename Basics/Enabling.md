@@ -1,5 +1,5 @@
 # Enabling JavaScript in Browsers
-모든 모던 브라우저들은 자바스크립트를 기본으로 지원합니다.여러분들은 이 지원 기능을 수동으로 켜고, 끄고 싶을 때가 있을 것입니다. 이번 장에서는 여러분의 브라우저(Internet Explorer, FirefoxChrome, Opera)에서 자바스크립트를 켜고, 끄고 하는 과정에 대해 설명합니다.
+모든 모던 브라우저들은 자바스크립트를 기본으로 지원합니다.여러분들은 이 지원 기능을 수동으로 켜고, 끄고 싶을 때가 있을 것입니다. 이번 장에서는 여러분의 브라우저(Internet Explorer, Firefox, Chrome, Opera)에서 자바스크립트를 켜고, 끄고 하는 과정에 대해 설명합니다.
 
 ## JavaScript in Internet Explorer
 다음은 인터넷 익스플로러에서 자바스크립트를 켜고 끄는 간단한 방법입니다.
